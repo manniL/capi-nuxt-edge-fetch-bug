@@ -1,0 +1,17 @@
+{
+  "name": "capi-broken-nuxt-edge",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/composition-api": "^0.19.1",
+    "core-js": "^3.8.3",
+    "nuxt-edge": "^2.15.0-26876193.fffb1a19"
+  },
+  "devDependencies": {}
+}
